@@ -58,3 +58,4 @@ Conclusion
 
 This project provides a clear understanding of COVID-19 data using data analysis and visualization techniques. It helps in identifying trends, comparing countries, and understanding the overall impact of the pandemic.
 <img width="725" height="630" alt="image" src="https://github.com/user-attachments/assets/d321130c-7afa-43c8-9736-415775dd48ee" />
+<img width="510" height="517" alt="image" src="https://github.com/user-attachments/assets/73665fbf-088b-4f11-b95d-26781eeae33e" />
