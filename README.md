@@ -57,3 +57,4 @@ Correlation between features helps understand patterns
 Conclusion
 
 This project provides a clear understanding of COVID-19 data using data analysis and visualization techniques. It helps in identifying trends, comparing countries, and understanding the overall impact of the pandemic.
+<img width="725" height="630" alt="image" src="https://github.com/user-attachments/assets/d321130c-7afa-43c8-9736-415775dd48ee" />
