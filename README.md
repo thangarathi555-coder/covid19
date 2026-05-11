@@ -60,3 +60,4 @@ This project provides a clear understanding of COVID-19 data using data analysis
 <img width="725" height="630" alt="image" src="https://github.com/user-attachments/assets/d321130c-7afa-43c8-9736-415775dd48ee" />
 <img width="510" height="517" alt="image" src="https://github.com/user-attachments/assets/73665fbf-088b-4f11-b95d-26781eeae33e" />
 <img width="836" height="586" alt="image" src="https://github.com/user-attachments/assets/97766b61-1ba6-4540-a4ce-14a0f7f14f28" />
+<img width="687" height="581" alt="image" src="https://github.com/user-attachments/assets/7af45948-8b66-495a-82c4-ef64ca6d2faf" />
