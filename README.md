@@ -101,3 +101,6 @@ Conclusion
 
 This project demonstrates how Python can be used to analyze and visualize COVID-19 data effectively. By applying Exploratory Data Analysis and interactive dashboard techniques, meaningful insights about global pandemic trends can be derived. The visualizations help simplify complex datasets and support better understanding of COVID-19 impact across countries.
 <img width="1072" height="661" alt="image" src="https://github.com/user-attachments/assets/96df0785-4390-459a-b4e4-5048407c6a0e" />
+<img width="675" height="618" alt="Screenshot 2026-06-05 132734" src="https://github.com/user-attachments/assets/1c6a10e5-b194-4518-ab2f-801cf534c0e9" />
+<img width="782" height="628" alt="Screenshot 2026-06-05 132742" src="https://github.com/user-attachments/assets/7f03b1cb-d077-452b-a389-2510ee4f5d38" />
+<img width="749" height="582" alt="Screenshot 2026-06-05 132754" src="https://github.com/user-attachments/assets/7a56320e-d756-4b33-b826-41c27d5675ed" />
