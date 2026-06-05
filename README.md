@@ -100,3 +100,4 @@ Healthcare data visualization
 Conclusion
 
 This project demonstrates how Python can be used to analyze and visualize COVID-19 data effectively. By applying Exploratory Data Analysis and interactive dashboard techniques, meaningful insights about global pandemic trends can be derived. The visualizations help simplify complex datasets and support better understanding of COVID-19 impact across countries.
+<img width="1072" height="661" alt="image" src="https://github.com/user-attachments/assets/96df0785-4390-459a-b4e4-5048407c6a0e" />
